@@ -25,9 +25,7 @@ function App() {
           width: "20rem",
           height: "22rem",
         }}
-      >
-        <img alt="another house plant" src={"../public/images/image_two.jpg"} />
-      </div>
+      ></div>
     </>
   );
 }
